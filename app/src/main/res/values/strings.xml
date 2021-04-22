@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">REM Sleep</string>
+    <string name="OneCycle">1 Cycle</string>
+    <string name="TwoCycles">2 Cycles</string>
+    <string name="ThreeCycles">3 Cycles</string>
+    <string name="FourCycles">4 Cycles</string>
+    <string name="FiveCycles">5 Cycles</string>
+    <string name="SixCycles">6 Cycles</string>
+    <string name="SetAlarm">Set Alarm</string>
+
+    <string name="textAboveTime">After 0 REM cycles, you will wake up at</string>
+    <string name="timeDisplayHint">0:00 am</string>
+</resources>
